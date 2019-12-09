@@ -11,7 +11,11 @@ namespace Quantum.Qute_Forcer
         {
             using (var qsim = new QuantumSimulator())
             {
-                HelloQ.Run(qsim).Wait();
+                string x = Convert.ToString(KeyGenerator.Run(qsim).Result);
+                x = x.Replace("True", "1");
+                x = x.Replace("False", "0");
+                x = x.Replace(",", "");
+                Console.WriteLine("Shared Key: " + x);
             }
         }
     }

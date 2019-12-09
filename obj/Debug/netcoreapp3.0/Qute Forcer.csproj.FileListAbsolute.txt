@@ -1,0 +1,23 @@
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\obj\Debug\netcoreapp3.0\Qute Forcer.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\obj\Debug\netcoreapp3.0\Qute Forcer.AssemblyInfo.cs
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Qute Forcer.exe
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Qute Forcer.deps.json
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Qute Forcer.runtimeconfig.json
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Qute Forcer.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Qute Forcer.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Qute Forcer.pdb
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Intrinsic.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.Common.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.Core.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulators.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Standard.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\vcomp140.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\obj\Debug\netcoreapp3.0\Qute Forcer.csproj.CopyComplete
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\obj\Debug\netcoreapp3.0\Qute Forcer.dll
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\obj\Debug\netcoreapp3.0\Qute Forcer.pdb
+C:\Users\Mike\source\repos\Qute Forcer\Qute Forcer\obj\Debug\netcoreapp3.0\Qute Forcer.csprojAssemblyReference.cache
